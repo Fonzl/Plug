@@ -1,0 +1,13 @@
+c:\users\hrust\documents\visual studio 2015\Projects\приложение\приложение\bin\Debug\приложение.exe.config
+c:\users\hrust\documents\visual studio 2015\Projects\приложение\приложение\bin\Debug\приложение.exe
+c:\users\hrust\documents\visual studio 2015\Projects\приложение\приложение\bin\Debug\приложение.pdb
+c:\users\hrust\documents\visual studio 2015\Projects\приложение\приложение\obj\Debug\приложение.csprojResolveAssemblyReference.cache
+c:\users\hrust\documents\visual studio 2015\Projects\приложение\приложение\obj\Debug\приложение.Приложение.resources
+c:\users\hrust\documents\visual studio 2015\Projects\приложение\приложение\obj\Debug\приложение.Properties.Resources.resources
+c:\users\hrust\documents\visual studio 2015\Projects\приложение\приложение\obj\Debug\приложение.csproj.GenerateResource.Cache
+c:\users\hrust\documents\visual studio 2015\Projects\приложение\приложение\obj\Debug\приложение.exe
+c:\users\hrust\documents\visual studio 2015\Projects\приложение\приложение\obj\Debug\приложение.pdb
+C:\Users\hrust\Documents\Visual Studio 2015\Projects\приложение\приложение\obj\Debug\приложение.Form3.resources
+C:\Users\hrust\Documents\Visual Studio 2015\Projects\приложение\приложение\obj\Debug\приложение.Form_Job2.resources
+C:\Users\hrust\Documents\Visual Studio 2015\Projects\приложение\приложение\obj\Debug\приложение.Form_job3.resources
+C:\Users\hrust\Documents\Visual Studio 2015\Projects\приложение\приложение\obj\Debug\приложение.Forms_job4.resources

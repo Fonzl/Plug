@@ -1,0 +1,12 @@
+C:\Users\hrust\Documents\Visual Studio 2015\Projects\приложение\приложение\bin\Release\приложение.exe.config
+C:\Users\hrust\Documents\Visual Studio 2015\Projects\приложение\приложение\bin\Release\приложение.exe
+C:\Users\hrust\Documents\Visual Studio 2015\Projects\приложение\приложение\bin\Release\приложение.pdb
+C:\Users\hrust\Documents\Visual Studio 2015\Projects\приложение\приложение\obj\Release\приложение.Приложение.resources
+C:\Users\hrust\Documents\Visual Studio 2015\Projects\приложение\приложение\obj\Release\приложение.Form3.resources
+C:\Users\hrust\Documents\Visual Studio 2015\Projects\приложение\приложение\obj\Release\приложение.Form_Job2.resources
+C:\Users\hrust\Documents\Visual Studio 2015\Projects\приложение\приложение\obj\Release\приложение.Forms_job4.resources
+C:\Users\hrust\Documents\Visual Studio 2015\Projects\приложение\приложение\obj\Release\приложение.Form_job3.resources
+C:\Users\hrust\Documents\Visual Studio 2015\Projects\приложение\приложение\obj\Release\приложение.Properties.Resources.resources
+C:\Users\hrust\Documents\Visual Studio 2015\Projects\приложение\приложение\obj\Release\приложение.csproj.GenerateResource.Cache
+C:\Users\hrust\Documents\Visual Studio 2015\Projects\приложение\приложение\obj\Release\приложение.exe
+C:\Users\hrust\Documents\Visual Studio 2015\Projects\приложение\приложение\obj\Release\приложение.pdb
